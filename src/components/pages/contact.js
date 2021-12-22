@@ -1,8 +1,7 @@
 import React, {Component} from 'react'
 
-
 export default function() {
     return (
-        <div>About</div>
+        <div>Contact</div>
     )
 }
